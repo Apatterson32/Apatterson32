@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Apatterson32
+- 👋 Hi, I’m Alissa
 - 👀 I’m interested in learning and growing my capabilities as a person
 - 🌱 I’m currently learning how to code/program
 - 💞️ I’m looking to collaborate on projects in the bootcamp
